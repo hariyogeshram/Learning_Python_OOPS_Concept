@@ -18,10 +18,10 @@ Self Learning  -> Python "OOPS" Concept
 
 # Also, I learned, 
 
-   Constructor
-   Super Keyword
-   Static Members
-   Getter and Setter Methods
+   1) Constructor
+   2) Super Keyword
+   3) Static Members
+   4) Getter and Setter Methods
 
 # ------------------------------------------------------------
 
